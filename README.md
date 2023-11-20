@@ -18,3 +18,8 @@ The folders are organized into the following directories:
 + 02 Data: Subdivided into Original and Prepared Data, housing the unaltered dataset and the cleaned, analysis-ready data frames, respectively. Note: This folder is excluded on Github due to its size.
 + 03 Scripts: Comprises all Python codes utilized throughout the analysis.
 + 04 Analysis: Encompasses the saved visualizations.
+
+## Tableau Storyboard
+I created a storyboard on Tableau to perform further analysis on the data and present the visualizations on Tableau Public. The storyboard is available in the link:
+https://public.tableau.com/views/AnalysisofGunViolenceIncidentsinUSA/AnalysisofGunViolenceIncidentsinUSA?:language=en-US&:display_count=n&:origin=viz_share_link
+
