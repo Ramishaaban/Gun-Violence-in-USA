@@ -5,8 +5,9 @@ In this Python portfolio project, I explore the analysis of U.S. gun violence da
 The project aims to analyze gun violence incidents in the USA from January 2013 to March 2018, seeking to identify patterns and trends in incident frequency, number of casualties, and geographical distribution.
 
 ## Datasets
-Data was sourced from the Gun Violence Archive, encompassing over 260,000 detailed records of incidents. Key variables include incident date, location, number of people killed/injured, and incident characteristics. The dataset was downloaded from Kaggle.com 
+Data of gun violence incidents was sourced from the Gun Violence Archive, encompassing over 260,000 detailed records of incidents. Key variables include incident date, location, number of people killed/injured, and incident characteristics. The dataset was downloaded from Kaggle.com 
 https://www.kaggle.com/datasets/jameslko/gun-violence-data/data
+In addition, a .json shapefile of the US states was utilized in Python for the spatial analysis. 
 
 ## Tools used
 I used Python within the Anaconda Navigator software environment, primarily utilizing Jupyter Notebook.
